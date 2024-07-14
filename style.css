@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+    background-color: black;
+    
+}
+.logo{
+    padding-left: 150px;    
+
+}
+.logo-img{
+    height: 50px;
+    width: 160px;
+    padding-top: 30px;
+   
+}
+.lang{
+    padding-top: 40px;
+    padding-left: 800px;
+
+}
+#lang-option{
+    height: 30px;
+    width: 130px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+.sign-in{
+    padding-top: 38px;
+    padding-left: 20px;
+
+}
+#sign{
+    height: 35px;
+    width: 75px;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    font-size: 15px;
+    
+}
+.background{
+    color: white;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    background-image: url("background.jpg");
+
+}
+.background-img{
+    height: 650px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.52;
+}
+.background-text{
+    position: absolute;
+
+}
+#bg-text1{
+    font-size: 60px;
+}
+#bg-text2{
+    font-size: 30px;
+    margin-top: 7px;
+}
+#bg-text3{
+    font-size: 25px;
+    margin-top: 20px;
+}
+#bg-text4{
+    height: 48px;
+    width: 400px;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: left;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+#bg-text5{
+    height: 50px;
+    width: 220px;
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    margin-top: 25px;
+    font-size: 25px;
+
+}
+.page1{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
+.page1-text{
+    height: 500;
+    width: 50%;
+}
+#page1-text-p{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    padding-top: 180px;
+    
+}
+.page2{
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
+.page2-img{
+    height: 500;
+    width: 50%;
+    padding-left: 150px;
+}
+.page2-text{
+    height: 500px;
+    width: 50%;
+    color: white;
+    padding-left: 50px;
+    padding-top: 80px;
+    font-size: 25px;
+
+}
